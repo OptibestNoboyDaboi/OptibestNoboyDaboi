@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Eaglercraft
 - 📫 How to reach me Safi.gamer@outlook.com
-- 😄 Pronouns: None
+- 😄 Pronouns: He
 - ⚡ Fun fact: I know lax1dude personally
 
 <!---
